@@ -1,0 +1,4 @@
+for  ((; ;))
+do 
+echo "This is an infinite loop. press ctrl+c or ctrl+z to end"
+done

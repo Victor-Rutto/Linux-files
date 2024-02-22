@@ -1,0 +1,6 @@
+#!/bin/sh
+for car in TOYOTA RANGE MAZDA MERCEDEZ VW
+do 
+        echo $car
+done
+
